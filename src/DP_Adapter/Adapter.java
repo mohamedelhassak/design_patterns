@@ -1,5 +1,8 @@
 package DP_Adapter;
 
+import DP_Adapter.existed_code.AncienneImpl;
+import DP_Adapter.new_code.StandardInterface;
+
 public class Adapter extends AncienneImpl implements StandardInterface {
 	
 	//utilser composition

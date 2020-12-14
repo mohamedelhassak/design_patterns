@@ -1,5 +1,7 @@
 package DP_Strategy;
 
+import DP_Strategy.strategies.IStrategey;
+
 import java.util.Scanner;
 
 public class Main {

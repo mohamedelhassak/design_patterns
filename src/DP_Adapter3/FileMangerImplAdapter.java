@@ -1,5 +1,8 @@
 package DP_Adapter3;
 
+import DP_Adapter3.existed_code.FileMangerUtil;
+import DP_Adapter3.new_code.FileManagerInterface;
+
 public class FileMangerImplAdapter extends FileMangerUtil implements FileManagerInterface {
 	
 	public String close() {

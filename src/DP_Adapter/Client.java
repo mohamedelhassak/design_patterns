@@ -1,5 +1,7 @@
 package DP_Adapter;
 
+import DP_Adapter.new_code.StandardInterface;
+
 public class Client {
 	private StandardInterface std;
 	

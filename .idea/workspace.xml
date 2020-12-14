@@ -20,52 +20,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53d5ea4-a878-40ec-8649-8c04aa3eb539" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Adapter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/ShapeCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Adapter3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Factory/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Prototype/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Prototype2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Singleton/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Strategy/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/Adapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/AncienneImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/AncienneImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/AncienneInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/AncienneInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/AncienneImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/AncienneInterface.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/StandardInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/PayD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/PayD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/TestAdpter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/TestAdpter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/Xpay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/Xpay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/XpayImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/XpayImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/StandardInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/PayD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/TestAdpter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/Xpay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/XpayImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/XpayToPayDAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/XpayToPayDAdapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter3/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/FileManagerInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter3/FileManagerInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/FileManagerInterface.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/FileMangerImplAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter3/FileMangerImplAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/FileMangerUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter3/FileMangerUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Factory/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Factory/ProductA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Factory/ProductA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Factory/ProductB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Factory/ProductB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Factory/ProductFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Factory/ProductFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Factory/ProductInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Factory/ProductInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Prototype/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Prototype/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Prototype/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Prototype/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Prototype/DVD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Prototype/DVD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Prototype/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Prototype/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Prototype/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Prototype/Prototype.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Singleton/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Singleton/FileLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/IStrategey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/IStrategey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImplDefault.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImplDefault.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter3/FileMangerUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/AncienneImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/existed_code/AncienneImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/AncienneInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/existed_code/AncienneInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/StandardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/StandardImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/StandardInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/PayD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/new_code/PayD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/TestAdpter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/Xpay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/existed_code/Xpay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/XpayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/existed_code/XpayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/XpayToPayDAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter2/XpayToPayDAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/FileManagerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter3/new_code/FileManagerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/FileMangerImplAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter3/FileMangerImplAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/FileMangerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Adapter3/existed_code/FileMangerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/IStrategey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/IStrategey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/StrategyImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/StrategyImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/StrategyImpl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/StrategyImpl4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/StrategyImplDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImplDefault.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,20 +101,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DP_Prototype" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DP_Prototype2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Prototype" />
+      <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Adapter3" />
+      <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Adapter2" />
+      <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Prototype2" />
+      <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Adapter" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP_Adapter.App" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Adapter.*" />
+          <option name="PATTERN" value="DP_Adapter.existed_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_Adapter3.Client" />
+      <module name="Design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP_Adapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.App" />
       </list>
@@ -162,21 +190,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607902590244" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1607903219866">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1607966072441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607903219866" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1607903219866">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607966072441" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1607966072441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607903219866" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1607903219866">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607966072441" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1607966072440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607903219866" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1607903219866">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607966072440" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1607966072441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607903219866" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607966072441" />
   </component>
 </project>

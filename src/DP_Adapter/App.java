@@ -1,5 +1,8 @@
 package DP_Adapter;
 
+import DP_Adapter.new_code.StandardImpl;
+import DP_Adapter.new_code.StandardImpl2;
+
 public class App {
 
 	public static void main(String[] args) {

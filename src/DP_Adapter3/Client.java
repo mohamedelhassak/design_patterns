@@ -1,5 +1,7 @@
 package DP_Adapter3;
 
+import DP_Adapter3.new_code.FileManagerInterface;
+
 public class Client {
 
 	public static void main(String[] args) {

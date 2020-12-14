@@ -1,5 +1,8 @@
 package DP_Adapter2;
 
+import DP_Adapter2.existed_code.Xpay;
+import DP_Adapter2.new_code.PayD;
+
 public class XpayToPayDAdapter implements PayD {
 
 	private String custCardNo;
