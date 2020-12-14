@@ -1,4 +1,4 @@
-#Prototype Pattern
+# Prototype Pattern
 
 ## Definition
 The Prototype pattern is basically the creation of new instances through
