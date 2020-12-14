@@ -21,3 +21,6 @@ by copying this prototype.
 Each subclass of Prototype must implement the Clone operation. Could be
 difficult with existing classes with internal objects with circular references or
 which does not support copying.
+
+## Exemple
+![UML](../../images/prototype2.png)

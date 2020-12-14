@@ -16,3 +16,6 @@ subclass hierarchy), depending on the data provided to it.
 ##### The factory encapsulate the creation of objects. This can be useful if the creation process is very complex.
 ## Drawbacks/consequences
 There is no way to change an implementing class without a recompile.
+
+## Example
+![UML](../../images/factory1.png)

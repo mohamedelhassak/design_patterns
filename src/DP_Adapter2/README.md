@@ -20,3 +20,4 @@ object aggregation.
 
 ## Drawbacks/consequences
 When using Java, Target must be an interface.
+

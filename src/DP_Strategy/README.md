@@ -21,3 +21,6 @@ Flyweight, Decorator, Composite.
 ##### Clients must be aware of different strategies. A client must understand how
 strategies differ before it can select the appropriate one.
 ##### Increases the number of objects in an application.
+
+## Example
+![UML](../../images/strategy.png)
