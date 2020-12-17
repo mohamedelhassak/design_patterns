@@ -28,3 +28,6 @@ overhead associated with a long chain of decorators.
 
 ## Example
 ![UML](../../images/decorator2.png)
+
+## Test Client
+![UML](../../images/decorator2_test.png)

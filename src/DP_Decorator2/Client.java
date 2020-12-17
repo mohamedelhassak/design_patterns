@@ -8,6 +8,12 @@ import DP_Decorator2.forms.Forme;
 public class Client {
     public static void main(String[] args) {
 
+        System.out.println("-----------------------------------------------------------------");
+        System.out.println("*  DESIGN PATTERN : DECORATOR + FACTORY BY --> EL HASSAK Mohamed *");
+        System.out.println("------------------------------------------------------------------");
+
+        System.out.println();
+
         System.out.println("*******************");
         System.out.println("*  Creer Circle   *");
         System.out.println("*******************");
@@ -17,7 +23,6 @@ public class Client {
         //create circle via Factory
         Forme circle = f.createForme(FormeFactory.TYPE_CIRCLE);
 
-        System.out.println();
 
         circle.dessiner();
 
@@ -34,6 +39,7 @@ public class Client {
         circle.dessiner();
 
         System.out.println();
+        System.out.println();
 
         System.out.println("*******************");
         System.out.println("* Creer Rectangle *");
@@ -49,6 +55,10 @@ public class Client {
 
         rectangle = new FormeDeColeur(rectangle);
         rectangle.dessiner();
+
+
+        System.out.println();
+        System.out.println();
 
 
     }
