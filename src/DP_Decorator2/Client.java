@@ -1,13 +1,8 @@
 package DP_Decorator2;
 
-import DP_Decorator.boissons.Boisson;
-import DP_Decorator.boissons.Espresso;
-import DP_Decorator.decorators.Chocollat;
-import DP_Decorator.decorators.Vanille;
 import DP_Decorator2.decorators.FormeDeAgrandir;
 import DP_Decorator2.decorators.FormeDeColeur;
 import DP_Decorator2.decorators.FormeDeDeplacer;
-import DP_Decorator2.forms.Circle;
 import DP_Decorator2.forms.Forme;
 
 public class Client {
@@ -16,7 +11,12 @@ public class Client {
         System.out.println("*******************");
         System.out.println("*  Creer Circle   *");
         System.out.println("*******************");
-        Forme circle = new Circle();
+
+        //craete objet de factory
+        FormeFactory f = new FormeFactory();
+        //create circle via Factory
+        Forme circle = f.createForme(FormeFactory.TYPE_CIRCLE);
+
         System.out.println();
 
         circle.dessiner();
@@ -25,7 +25,6 @@ public class Client {
         circle.dessiner();
 
         circle = new FormeDeAgrandir(circle);
-//        circle.se
         circle.dessiner();
 
         circle = new FormeDeDeplacer(circle);
@@ -34,6 +33,22 @@ public class Client {
         circle = new FormeDeAgrandir(circle);
         circle.dessiner();
 
+        System.out.println();
+
+        System.out.println("*******************");
+        System.out.println("* Creer Rectangle *");
+        System.out.println("*******************");
+
+        //create rectangle via Factory
+        Forme rectangle = f.createForme(FormeFactory.TYPE_RECTANGLE);
+
+        rectangle.dessiner();
+
+        rectangle = new FormeDeAgrandir(rectangle);
+        rectangle.dessiner();
+
+        rectangle = new FormeDeColeur(rectangle);
+        rectangle.dessiner();
 
 
     }

@@ -20,66 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53d5ea4-a878-40ec-8649-8c04aa3eb539" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/DP_Adapter3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/boissons/Boisson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/boissons/Deca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/boissons/Espresso.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/boissons/Sumatra.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/decorators/Caramel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/decorators/Chocollat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/decorators/DecoratorAbstract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator/decorators/Vanille.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeAgrandir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeColeur.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeDeplacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Caree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Forme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Factory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Prototype/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Prototype2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Singleton/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/IStrategey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/StrategyImpl1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/StrategyImpl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/StrategyImpl3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/StrategyImpl4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DP_Strategy/strategies/StrategyImplDefault.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/decorator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/boissons/Boisson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/boissons/Deca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/boissons/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/boissons/Sumatra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/decorators/Caramel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/decorators/Chocollat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/decorators/DecoratorAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator/decorators/Vanille.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeAgrandir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeColeur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeDeplacer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Caree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Forme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Adapter2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Adapter2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/IStrategey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Strategy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImpl4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Strategy/StrategyImplDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator/decorators/Chocollat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator/decorators/Chocollat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeAgrandir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeAgrandir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeColeur.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeColeur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeDeplacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/decorators/FormeDeDeplacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Caree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Caree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/forms/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Caree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Caree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Forme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Forme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/forms/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DP_Decorator2" />
       <recent name="DP_Decorator2.decorators" />
       <recent name="DP_Decorator2.forms" />
       <recent name="DP_Decorator.decorators" />
       <recent name="DP_Decorator.boissons" />
-      <recent name="DP_Prototype2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Decorator2" />
@@ -229,22 +184,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607972220843" />
-    <state width="342" height="577" key="GridCell.Tab.0.bottom" timestamp="1608232347920">
+    <state width="746" height="577" key="GridCell.Tab.0.bottom" timestamp="1608234577131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="342" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608232347920" />
-    <state width="342" height="577" key="GridCell.Tab.0.center" timestamp="1608232347920">
+    <state width="746" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608234577131" />
+    <state width="746" height="577" key="GridCell.Tab.0.center" timestamp="1608234577131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="342" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608232347920" />
-    <state width="342" height="577" key="GridCell.Tab.0.left" timestamp="1608232347920">
+    <state width="746" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608234577131" />
+    <state width="746" height="577" key="GridCell.Tab.0.left" timestamp="1608234577131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="342" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608232347920" />
-    <state width="342" height="577" key="GridCell.Tab.0.right" timestamp="1608232347920">
+    <state width="746" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608234577131" />
+    <state width="746" height="577" key="GridCell.Tab.0.right" timestamp="1608234577131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="342" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608232347920" />
+    <state width="746" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608234577131" />
     <state x="199" y="10" key="SettingsEditor" timestamp="1607967945679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
