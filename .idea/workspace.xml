@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e53d5ea4-a878-40ec-8649-8c04aa3eb539" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP_Decorator2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP_Adapter3.Client" />
       <module name="Design_patterns" />
@@ -111,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Prototype2.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_Composite.Client" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Prototype2.*" />
+          <option name="PATTERN" value="DP_Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -165,30 +163,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1608232135105">
+    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1608245565952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608232135105" />
+    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608245565952" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607972220843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607972220843" />
-    <state width="891" height="577" key="GridCell.Tab.0.bottom" timestamp="1608235152346">
+    <state width="686" height="577" key="GridCell.Tab.0.bottom" timestamp="1608248207376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="891" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608235152346" />
-    <state width="891" height="577" key="GridCell.Tab.0.center" timestamp="1608235152345">
+    <state width="686" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
+    <state width="686" height="577" key="GridCell.Tab.0.center" timestamp="1608248207376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="891" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608235152345" />
-    <state width="891" height="577" key="GridCell.Tab.0.left" timestamp="1608235152345">
+    <state width="686" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
+    <state width="686" height="577" key="GridCell.Tab.0.left" timestamp="1608248207375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="891" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608235152345" />
-    <state width="891" height="577" key="GridCell.Tab.0.right" timestamp="1608235152345">
+    <state width="686" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608248207375" />
+    <state width="686" height="577" key="GridCell.Tab.0.right" timestamp="1608248207376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="891" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608235152345" />
+    <state width="686" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
     <state x="199" y="10" key="SettingsEditor" timestamp="1607967945679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
