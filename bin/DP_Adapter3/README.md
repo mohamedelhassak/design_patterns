@@ -22,4 +22,4 @@ object aggregation.
 When using Java, Target must be an interface.
 
 ## Example
-![UML](../../images/adapter1.png)
+![UML](../../images/adapter3.png)
