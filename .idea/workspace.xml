@@ -22,6 +22,89 @@
     <list default="true" id="e53d5ea4-a878-40ec-8649-8c04aa3eb539" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/existed_code/AncienneImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/existed_code/AncienneImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/existed_code/AncienneInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/existed_code/AncienneInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/new_code/StandardImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/new_code/StandardImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter/new_code/StandardInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter/new_code/StandardInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/XpayToPayDAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/XpayToPayDAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/existed_code/Xpay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/existed_code/Xpay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/existed_code/XpayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/existed_code/XpayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter2/new_code/PayD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter2/new_code/PayD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/FileMangerImplAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter3/FileMangerImplAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/existed_code/FileMangerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter3/existed_code/FileMangerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Adapter3/new_code/FileManagerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Adapter3/new_code/FileManagerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Composite/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Composite/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Composite/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Composite/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Composite/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Composite/Folder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Composite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Composite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/boissons/Boisson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/boissons/Boisson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/boissons/Deca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/boissons/Deca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/boissons/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/boissons/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/boissons/Sumatra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/boissons/Sumatra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/decorators/Caramel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/decorators/Caramel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/decorators/Chocollat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/decorators/Chocollat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/decorators/DecoratorAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/decorators/DecoratorAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator/decorators/Vanille.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator/decorators/Vanille.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/FormeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/FormeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeAgrandir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/decorators/FormeDeAgrandir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeColeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/decorators/FormeDeColeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDeDeplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/decorators/FormeDeDeplacer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/decorators/FormeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/decorators/FormeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Caree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/forms/Caree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/forms/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Forme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/forms/Forme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Decorator2/forms/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Decorator2/forms/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/ProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/ProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/ProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/ProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/ProductInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/ProductInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Factory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Factory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/ShapeCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Prototype2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Prototype2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/StandardInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/StandardInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/StandardInterfaceImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/StandardInterfaceImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Proxy/StandardInterfaceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural_Patterns/DP_Proxy/StandardInterfaceImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Singleton/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Singleton/FileLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational_Patterns/DP_Singleton/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/IStrategey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/IStrategey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/StrategyImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/StrategyImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/StrategyImpl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImpl4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/StrategyImpl4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP_Strategy/strategies/StrategyImplDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral_Patterns/DP_Strategy/strategies/StrategyImplDefault.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +158,11 @@
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Proxy.App" />
+      <option name="MAIN_CLASS_NAME" value="Structural_Patterns.DP_Proxy.App" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Proxy.*" />
+          <option name="PATTERN" value="Structural_Patterns.DP_Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Decorator2.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural_Patterns.DP_Decorator.Client" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Decorator2.*" />
+          <option name="PATTERN" value="Structural_Patterns.DP_Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +196,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Composite.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural_Patterns.DP_Decorator2.Client" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Composite.*" />
+          <option name="PATTERN" value="Structural_Patterns.DP_Decorator2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural_Patterns.DP_Composite.Client" />
+      <module name="Design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural_Patterns.DP_Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
