@@ -1,16 +1,19 @@
 # designs_patterns with java
 
+## 1- Creational Patterns
+* ### prototype
 
-### prototype
+* ### factory
 
-### factory
+* ### singleton
 
-### singleton
+## 2- Structural Patterns
+* ### adapter
 
-### adapter
+* ### decorator
 
-### decorator
+* ### proxy
 
-### startegy
+## 3- Behavioral Patterns
 
-### proxy
+* ### startegy
