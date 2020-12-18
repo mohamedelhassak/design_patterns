@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e53d5ea4-a878-40ec-8649-8c04aa3eb539" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DP_Decorator2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Decorator2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DP_Composite/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DP_Composite/Client.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,12 +56,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DP_Proxy" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DP_Proxy" />
       <recent name="DP_Decorator2" />
       <recent name="DP_Decorator2.decorators" />
       <recent name="DP_Decorator2.forms" />
       <recent name="DP_Decorator.decorators" />
-      <recent name="DP_Decorator.boissons" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Decorator2" />
@@ -69,13 +74,13 @@
       <recent name="C:\Users\HP\Videos\GI3 S1\design patterns\Design_patterns\src\DP_Prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Adapter3.Client" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_Proxy.App" />
       <module name="Design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Adapter3.*" />
+          <option name="PATTERN" value="DP_Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,30 +168,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1608245565952">
+    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1608281787902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608245565952" />
+    <state x="829" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608281787902" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607972220843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607972220843" />
-    <state width="686" height="577" key="GridCell.Tab.0.bottom" timestamp="1608248207376">
+    <state width="775" height="577" key="GridCell.Tab.0.bottom" timestamp="1608295117036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
-    <state width="686" height="577" key="GridCell.Tab.0.center" timestamp="1608248207376">
+    <state width="775" height="577" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608295117036" />
+    <state width="775" height="577" key="GridCell.Tab.0.center" timestamp="1608295117033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
-    <state width="686" height="577" key="GridCell.Tab.0.left" timestamp="1608248207375">
+    <state width="775" height="577" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608295117033" />
+    <state width="775" height="577" key="GridCell.Tab.0.left" timestamp="1608295117030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608248207375" />
-    <state width="686" height="577" key="GridCell.Tab.0.right" timestamp="1608248207376">
+    <state width="775" height="577" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608295117030" />
+    <state width="775" height="577" key="GridCell.Tab.0.right" timestamp="1608295117034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608248207376" />
+    <state width="775" height="577" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608295117034" />
     <state x="199" y="10" key="SettingsEditor" timestamp="1607967945679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

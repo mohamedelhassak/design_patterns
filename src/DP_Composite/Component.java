@@ -11,10 +11,10 @@ public abstract class Component {
 
     public abstract void afficher();
 
-    public String indentation(){
-        String str="";
-        for (int i = 0; i < level ; i++) {
-            str +="\t";
+    public String indentation() {
+        String str = "";
+        for (int i = 0; i < level; i++) {
+            str += "\t";
         }
         return str;
     }

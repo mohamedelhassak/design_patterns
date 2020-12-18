@@ -19,7 +19,7 @@ public class Client {
         System.out.println(b.cout() + "DH");
         System.out.println("*******************");
 
-        b= new Vanille(b);
+        b = new Vanille(b);
         System.out.println(b.getDesc());
         System.out.println(b.cout() + "DH");
         System.out.println("*******************");

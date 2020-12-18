@@ -8,6 +8,6 @@ public class File extends Component {
     @Override
     public void afficher() {
         String tab = indentation();
-        System.out.println(tab+"File :"+name);
+        System.out.println(tab + "File :" + name);
     }
 }

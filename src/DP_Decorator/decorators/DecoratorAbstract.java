@@ -9,5 +9,6 @@ public abstract class DecoratorAbstract extends Boisson {
         super();
         this.boisson = boisson;
     }
+
     public abstract String getDesc();
 }
